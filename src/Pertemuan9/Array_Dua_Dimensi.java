@@ -25,7 +25,7 @@ public class Array_Dua_Dimensi {
         
         for (int i = 0; i < Matriks.length; i++) {
             for (int a = 0; a < Matriks[0].length; a++) {
-                System.out.print(Matriks[i][a] + " ");
+                System.out.println(Matriks[i][a] + " ");
             }
             System.out.println(" ");
         }
@@ -35,7 +35,7 @@ public class Array_Dua_Dimensi {
         
         for (int i = 0; i<Mahasiswa.length; i++){
             for (int a = 0; a<Mahasiswa[0].length; a++){
-                System.out.print(Mahasiswa[i][a] + " ");
+                System.out.println(Mahasiswa[i][a] + " ");
             }
             System.out.println(" ");
         }
